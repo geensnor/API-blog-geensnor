@@ -1,0 +1,6 @@
+name: blog-api
+type: php
+project_tld: ddev.site
+docroot: public
+php_version: "8.2"
+webserver_type: nginx-fpm
