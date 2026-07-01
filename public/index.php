@@ -2,7 +2,7 @@
 header('Content-Type: application/json; charset=utf-8');
 
 $repo = 'geensnor/geensnor.nl';
-$branch = 'b5f00bfa7236e101662df9ac164dfb929e0b36df';
+$branch = 'main';
 $blogDir = 'src/content/blog';
 
 function fetchUrl(string $url): ?string {
